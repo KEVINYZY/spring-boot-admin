@@ -5,7 +5,7 @@ spring-boot-admin
 [![Coverage Status](https://coveralls.io/repos/codecentric/spring-boot-admin/badge.svg)](https://coveralls.io/r/codecentric/spring-boot-admin)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/8fd7bac6edac417a8451387286fe6917)](https://www.codacy.com/app/joshiste/spring-boot-admin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.codecentric/spring-boot-admin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.codecentric/spring-boot-admin/)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codecentric/spring-boot-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/codecentric/spring-boot-admin.svg)](https://gitter.im/codecentric/spring-boot-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is a simple admin interface for [Spring Boot](http://projects.spring.io/spring-boot/ "Official Spring-Boot website") applications.
 
@@ -32,13 +32,13 @@ This application provides a simple UI to administrate Spring Boot applications. 
 
 ## Getting Started
 
-[A quick guide](http://codecentric.github.io/spring-boot-admin/1.4.5/#getting-started) to get started can be found in our docs.
+[A quick guide](http://codecentric.github.io/spring-boot-admin/1.5.2/#getting-started) to get started can be found in our docs.
 
 ## Getting Help
 
 Having trouble with Spring Boot Admin? We’d like to help!
 
- * Check the [reference documentation](http://codecentric.github.io/spring-boot-admin/1.4.5/).
+ * Check the [reference documentation](http://codecentric.github.io/spring-boot-admin/1.5.2/).
  
  * Ask a question on [stackoverflow.com](http://stackoverflow.com/questions/tagged/spring-boot-admin) - we monitor questions tagged with `spring-boot-admin`.
  
@@ -47,11 +47,9 @@ Having trouble with Spring Boot Admin? We’d like to help!
  * Report bugs with Spring Boot Admin at http://github.com/codecentric/spring-boot-admin/issues.
 
 ## Reference Guide
-[Version 1.4.5](http://codecentric.github.io/spring-boot-admin/1.4.5/)
+[Version 1.5.2](http://codecentric.github.io/spring-boot-admin/1.5.2/)
 
-[Version 1.4.4](http://codecentric.github.io/spring-boot-admin/1.4.4/)
-
-[Version 1.4.3](http://codecentric.github.io/spring-boot-admin/1.4.3/)
+[Version 1.4.6](http://codecentric.github.io/spring-boot-admin/1.4.6/)
 
 [Version 1.3.7](http://codecentric.github.io/spring-boot-admin/1.3.7/)
 
