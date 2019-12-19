@@ -1,6 +1,6 @@
-貌似这把金丹期修为不够用了，应该是spring boot的一个监控的UI工具。\n
-spring-boot-admin
+spring-boot-admin ui
 =================
+貌似这把金丹期修为不够用了，应该是spring boot的一个监控的UI工具,前端的东西比较多，不太懂node js
 [![Apache License 2](https://img.shields.io/badge/license-ASF2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Build Status](https://travis-ci.org/codecentric/spring-boot-admin.svg?branch=master)](https://travis-ci.org/codecentric/spring-boot-admin)
 [![Coverage Status](https://coveralls.io/repos/codecentric/spring-boot-admin/badge.svg)](https://coveralls.io/r/codecentric/spring-boot-admin)
